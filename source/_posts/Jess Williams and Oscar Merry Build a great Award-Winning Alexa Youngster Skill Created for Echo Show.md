@@ -1,14 +1,19 @@
 ---
 title: Jess Williams and Oscar Merry Build a great Award-Winning Alexa Youngster Skill Created for Echo Show
-date: 2018-03-21 01:23:00
+date: 2018-8-12 01:23:00
 category: Developer Spotlight
+tag:
+	- Invention
+cover_picture: images/6.jpg
 ---
-
-![Ai](https://www.leeloo-dev.com/content/images/6.jpg)
 
 Jess Williams and Oscar Merry were early on adopters in the wonderful world of tone of voice technology. They known the unique opportunities tone of voice presents for content creators and developers, which led them to create one of the most engaging and profitable skills in the Alexa Expertise Store.
 
 With the introduction of Echo Show, which can be an Echo device with a screen, they wished to seize this new opportunity to further enrich the voice experience with their Alexa skills.
+
+<!-- more -->
+
+![](/images/6.jpg)
 
 “Our initial success construction skills for Alexa has been a definite determination for building our organization,” says Merry. “But we saw Echo Show as an ideal opportunity to improve the voice experience with visual components.”
 
@@ -16,7 +21,7 @@ Williams and Merry continue steadily to make great strides setting up skills for
 
 “The opportunities in voice are growing,” says Williams. “Winning the prize for the best youngster skill for Echo Show has influenced us to get even more amount of time in creating expertise that leverage voice, music and visuals for Echo equipment with screens.”
 
-Delivering Immersive Voice-First Experience with the Echo Show Display
+## Delivering Immersive Voice-First Experience with the Echo Show Display
 
 Co-founders of Opearlo, the voice design and development studio, Merry and Williams contain built Alexa skills across several categories. A lot of these-including Imagine my Brand, Riddle of the Day, Find My Mobile, and Inspire Me-earn funds from the Alexa Developer Rewards method. But they’d hardly ever ventured into the kids gaming category.
 
@@ -52,6 +57,6 @@ Merry agrees with the enormous potential that voice-first experiences provides t
 
 “One of the primary benefits in developing for Alexa is that tone of voice is the most natural form of conversation. There are tens of millions of men and women now with Echo devices, and we expect more and more persons to have Echo units with displays,” says Merry. “If you concentrate on building great voice experience that work across most of these devices, display screen no screen, the possibility to reach more persons is huge.”
 
-Build a New Skill, Earn Programmer Perks
+## Build a New Skill, Earn Programmer Perks
 
 Bring your big idea to life with Alexa and receive perks through each of our tiered rewards program. US developers, publish an art in June and earn an AWS IoT button. Add in-skill purchasing to any skill in June can make an Alexa-enabled device for the automobile. If you're not in the US, have a look at our campaigns in Canada, the united kingdom, Germany, Japan, France, Australia, and India. Know more about our promotion and start building today.

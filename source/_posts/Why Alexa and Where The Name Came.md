@@ -1,14 +1,19 @@
 ---
 title: Why Alexa and Where The Name Came
-date: 2018-02-02 00:56:00
+date: 2018-8-02 00:56:00
 category: Definition of Alexa
+tags:
+	- Intro
+cover_picture: images/1.jpg
 ---
-
-![Ai](https://www.leeloo-dev.com/content/images/1.jpg)
 
 With Alexa, you can build natural voice encounters that offer customers a far more intuitive way to interact with the technology they use each day. Our collection of tools, APIs, reference solutions, and documentation produce it easy for one to build with Alexa.
 
 Begin to build for voice today by adding new features to Alexa, connecting Alexa to devices, or integrating Alexa straight into your products.
+
+<!-- more -->
+
+![](/images/1.jpg)
 
 Amazon’s Alexa-controlled Echo speaker, now found in its second generation and with some derivative versions available, continues to expand its music, smart-residence, and digital-assistant skills. It’s first a radio speaker, but with the capacity of much considerably more. Using only the audio of your tone of voice, you can play music, search the net, create to-do and purchasing lists, shop on the net, get instant weather reviews, and control preferred smart-home products-all while your smartphone remains in your pocket.
 
